@@ -1,0 +1,45 @@
+ChatGPT Implementation Using Django
+
+Features
+
+* Chatbot Interface
+* Real-Time User Interaction
+* AI-Powered Response Generation
+* User-Friendly Web Interface
+* Fast and Efficient Query Processing
+
+Tech Used
+
+* Python
+* Django
+* HTML
+* CSS
+* JavaScript
+
+How to Run
+
+1. Install the required packages:
+
+   ```
+   pip install -r requirements.txt
+   ```
+
+2. Run the Django development server:
+
+   ```
+   python manage.py runserver
+   ```
+
+3. Open your browser and visit:
+
+   ```
+   http://127.0.0.1:8000/
+   ```
+
+## Project Description
+
+This mini project implements a ChatGPT-like chatbot using the Django framework. The application provides an interactive web interface where users can submit questions and receive intelligent responses. The project demonstrates web development concepts, user interaction handling, and chatbot integration using Python and Django.
+
+## Author
+
+Mune Eswari
